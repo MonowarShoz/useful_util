@@ -15,7 +15,7 @@ A Flutter package that contain some useful util method for personal usage
 
 ## Features
 
-1. Decompressed a gzip compressed data to a string
+1. Decompress a gzip compressed data to a string
 2. Custom text formatter for licensed text
 3. Launch any url or phone using url Launcher
 4. Convert any custom dynamic data like various model object into base64 string
