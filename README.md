@@ -11,12 +11,15 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A Flutter package that contain some useful util method for personal usage
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+1. Decompressed a gzip compressed data to a string
+2. Custom text formatter for licensed text
+3. Launch any url or phone using url Launcher
+4. Convert any custom dynamic data like various model object into base64 string
+5. Other useful methods like md5 encryption, add Dash between String, string manipulation etc
 
 ## Getting started
 
